@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "category": [
+        { "id": 1, "name": "Apartment" },
+        { "id": 2, "name": "Bussiness Area" }
+      ],
+      "developerName": "Newton",
+      "rating": 5.0,
+      "description": "\"Newton The Digital Park\", the future of real estate within your reach. Strategically Located in the heart of Bandung City, West Java. Bandung City is internationally known for its creative people and has produced many creative brands.\n\"Newton The Digital Park\" is a mixed-use high-rise building development that consists of 3 high-rise towers and a commercial building with a total of 1.000 saleable units. Built within 1,5 hectares of land, \"Newton The Digital Park\" is specially designed to become the center of digital activities that will help businesses grow through the digital platform. The project was already developed in 2015 and with this new program, \"Newton The Digital Park\" will be finishing the development phase in the third quarter of 2025.\nThe main mission is to provide the best supporting system for the creative industry through an affordable ecosystem and digitalization.",
+      "websiteUrl": "https://apartemen.123bisa.com",
+      "threshold": "10",
+      "imageUrl": "../../images/NewtonTower.webp",
+      "createdAt": "2022-07-28 00:00:00",
+      "priceMinimum": "12000",
+      "priceMaximum": "20000"
+    },
+    {
+      "id": 2,
+      "category": [{ "id": 3, "name": "Housing Area" }],
+      "developerName": "Alyf Homes",
+      "rating": 5.0,
+      "description": "Located Strategically on one of the busiest roads in West Java, Indonesia between two major metro Cities, \"ALYF HOMES\" is a rental-based housing development that consists of various types of house designs.\nBuilt within 3,8 hectares of land, \"ALYF HOMES\" offers 275 uniquely designed real houses and is currently operated by an experienced estate management company.\nInitially developed in 2019 and already occupied by more than 100 families, \"ALYF HOMES\" is now re-adjusting its business models to meet potential demand. With this program, the development phase will be done in the First Quarter of 2024.\nThe main mission is to provide the most affordable housing for the community with many great deals.\"ALYF HOMES\" will be the pioneer of affordable housing rental with fully furnished houses. There will be various deals of rental schemes that will exceed the expectations.",
+      "websiteUrl": "https://alif.123bisa.com/",
+      "threshold": "100",
+      "imageUrl": "../../images/AlyfHomeCompleteSection.webp",
+      "createdAt": "2022-07-28 00:00:00",
+      "priceMinimum": "8000",
+      "priceMaximum": "17000"
+    }
+  ]
+}

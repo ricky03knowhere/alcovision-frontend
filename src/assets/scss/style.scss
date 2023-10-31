@@ -1,0 +1,12 @@
+.center {
+    margin: auto;
+    width: 80%;
+    padding: 50px;
+    }
+
+.cardcontainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+}

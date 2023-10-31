@@ -1,0 +1,2241 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 1 BR - A",
+      "imageUrl": "../../images/Newton/Bahama/1 BR/Newton - Bahama - 1 BR - A.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "334",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 23
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 2,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 1 BR - B",
+      "imageUrl": "../../images/Newton/Bahama/1 BR/Newton - Bahama - 1 BR - B.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "364",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 35
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 3,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 1 BR - C",
+      "imageUrl": "../../images/Newton/Bahama/1 BR/Newton - Bahama - 1 BR - C.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "434",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 85
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 4,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 1 BR - S",
+      "imageUrl": "../../images/Newton/Bahama/1 BR/Newton - Bahama - 1 BR - S.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "634",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 93
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 5,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 1 BR - X",
+      "imageUrl": "../../images/Newton/Bahama/1 BR/Newton - Bahama - 1 BR - X.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "934",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 123
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 6,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 2 BR-A - A",
+      "imageUrl": "../../images/Newton/Bahama/2 BR-A/Newton - Bahama - 2 BR-A - A.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "234",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 58
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 7,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 2 BR-A - B",
+      "imageUrl": "../../images/Newton/Bahama/2 BR-A/Newton - Bahama - 2 BR-A - B.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "794",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 35
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 8,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 2 BR-A - S",
+      "imageUrl": "../../images/Newton/Bahama/2 BR-A/Newton - Bahama - 2 BR-A - S.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "834",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 93
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 9,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 2 BR-A - X",
+      "imageUrl": "../../images/Newton/Bahama/2 BR-A/Newton - Bahama - 2 BR-A - X.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "934",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 123
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 10,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 2 BR-B - A",
+      "imageUrl": "../../images/Newton/Bahama/2 BR-B/Newton - Bahama - 2 BR-B - A.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "893",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 35
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 11,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 2 BR-B - S",
+      "imageUrl": "../../images/Newton/Bahama/2 BR-B/Newton - Bahama - 2 BR-B - S.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "945",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 93
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 12,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 2 BR-B - X",
+      "imageUrl": "../../images/Newton/Bahama/2 BR-B/Newton - Bahama - 2 BR-B - X.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "1059",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 123
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 13,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 2 BR-C - A",
+      "imageUrl": "../../images/Newton/Bahama/2 BR-C/Newton - Bahama - 2 BR-C - A.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "934",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 93
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 14,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 2 BR-C - S",
+      "imageUrl": "../../images/Newton/Bahama/2 BR-C/Newton - Bahama - 2 BR-C - S.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "1048",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 24
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 15,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 2 BR-C - X",
+      "imageUrl": "../../images/Newton/Bahama/2 BR-C/Newton - Bahama - 2 BR-C - X.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "1122",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 58
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 16,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 1,
+        "name": "Bahama"
+      },
+      "name": "Newton - Bahama - 3 BR- X",
+      "imageUrl": "../../images/Newton/Bahama/3 BR/Newton - Bahama - 3 BR- X.webp",
+      "description": "Newton Apartment, Bahama.",
+      "price": "1322",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 128
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 17,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Deluxe - X",
+      "imageUrl": "../../images/Newton/Champa/Deluxe/Newton - Champa - Deluxe - X.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "473",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 490
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 18,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior - A",
+      "imageUrl": "../../images/Newton/Champa/Superior/Newton - Champa - Superior - A.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "893",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 920
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 19,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior - B",
+      "imageUrl": "../../images/Newton/Champa/Superior/Newton - Champa - Superior - B.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "934",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 390
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 20,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior - C",
+      "imageUrl": "../../images/Newton/Champa/Superior/Newton - Champa - Superior - C.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "1084",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 19
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 21,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior - S",
+      "imageUrl": "../../images/Newton/Champa/Superior/Newton - Champa - Superior - S.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "1048",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 85
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 22,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior - X",
+      "imageUrl": "../../images/Newton/Champa/Superior/Newton - Champa - Superior - X.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "453",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 93
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 23,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior Bridge 1 - S",
+      "imageUrl": "../../images/Newton/Champa/Superior Bride 1/Newton - Champa - Superior Bridge 1 - S.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "589",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 34
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 24,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior Bridge 1 - X",
+      "imageUrl": "../../images/Newton/Champa/Superior Bride 1/Newton - Champa - Superior Bridge 1 - X.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "689",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 43
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 25,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior Bridge 2 - X",
+      "imageUrl": "../../images/Newton/Champa/Superior Bride 2/Newton - Champa - Superior Bridge 2 - X.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "789",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 43
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 26,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior Bridge 3 - X",
+      "imageUrl": "../../images/Newton/Champa/Superior Bride 3/Newton - Champa - Superior Bridge 3 - X.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "849",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 23
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 27,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior Corner - A",
+      "imageUrl": "../../images/Newton/Champa/Superior Corner/Newton - Champa - Superior Corner - A.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "793",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 46
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 28,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior Corner - B",
+      "imageUrl": "../../images/Newton/Champa/Superior Corner/Newton - Champa - Superior Corner - B.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "804",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 45
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 29,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior Corner - C",
+      "imageUrl": "../../images/Newton/Champa/Superior Corner/Newton - Champa - Superior Corner - C.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "964",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 34
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 30,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior Corner - S",
+      "imageUrl": "../../images/Newton/Champa/Superior Corner/Newton - Champa - Superior Corner - S.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "945",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 34
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 31,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 2,
+        "name": "Champa"
+      },
+      "name": "Newton - Champa - Superior Corner - X",
+      "imageUrl": "../../images/Newton/Champa/Superior Corner/Newton - Champa - Superior Corner - X.webp",
+      "description": "Newton Apartment, Champa.",
+      "price": "1504",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 534
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 32,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 1 BR - A",
+      "imageUrl": "../../images/Newton/Cyprus/1 BR/Newton - Cyprus - 1 BR - A.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "322",
+      "like": {
+        "isLike": true,
+        "count": 74
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 33,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 1 BR - S",
+      "imageUrl": "../../images/Newton/Cyprus/1 BR/Newton - Cyprus - 1 BR - S.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "189",
+      "like": {
+        "isLike": true,
+        "count": 15
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 34,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 1 BR - X",
+      "imageUrl": "../../images/Newton/Cyprus/1 BR/Newton - Cyprus - 1 BR - X.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "771",
+      "like": {
+        "isLike": true,
+        "count": 53
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 35,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 1 BR-A - A",
+      "imageUrl": "../../images/Newton/Cyprus/1 BR-A/Newton - Cyprus - 1 BR-A - A.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "343",
+      "like": {
+        "isLike": true,
+        "count": 66
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 36,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 1 BR-A - B",
+      "imageUrl": "../../images/Newton/Cyprus/1 BR-A/Newton - Cyprus - 1 BR-A - B.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "153",
+      "like": {
+        "isLike": true,
+        "count": 75
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+
+    {
+      "id": 37,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 1 BR-A - C",
+      "imageUrl": "../../images/Newton/Cyprus/1 BR-A/Newton - Cyprus - 1 BR-A - C.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "324",
+      "like": {
+        "isLike": true,
+        "count": 74
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 38,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 1 BR-A - S",
+      "imageUrl": "../../images/Newton/Cyprus/1 BR-A/Newton - Cyprus - 1 BR-A - S.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "324",
+      "like": {
+        "isLike": true,
+        "count": 74
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 39,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 1 BR-A - X",
+      "imageUrl": "../../images/Newton/Cyprus/1 BR-A/Newton - Cyprus - 1 BR-A - X.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "655",
+      "like": {
+        "isLike": true,
+        "count": 78
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 40,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 1 BR-B - A",
+      "imageUrl": "../../images/Newton/Cyprus/1 BR-B/Newton - Cyprus - 1 BR-B - A.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "733",
+      "like": {
+        "isLike": true,
+        "count": 44
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 41,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 1 BR-B - B",
+      "imageUrl": "../../images/Newton/Cyprus/1 BR-B/Newton - Cyprus - 1 BR-B - B.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "534",
+      "like": {
+        "isLike": true,
+        "count": 33
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 42,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 1 BR-B - S",
+      "imageUrl": "../../images/Newton/Cyprus/1 BR-B/Newton - Cyprus - 1 BR-B - S.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "542",
+      "like": {
+        "isLike": true,
+        "count": 35
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 43,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 1 BR-B - X",
+      "imageUrl": "../../images/Newton/Cyprus/1 BR-B/Newton - Cyprus - 1 BR-B - X.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "678",
+      "like": {
+        "isLike": true,
+        "count": 45
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 44,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 2 BR-A - A",
+      "imageUrl": "../../images/Newton/Cyprus/2 BR-A/Newton - Cyprus - 2 BR-A - A.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "225",
+      "like": {
+        "isLike": true,
+        "count": 74
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 45,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 2 BR-A - S",
+      "imageUrl": "../../images/Newton/Cyprus/2 BR-A/Newton - Cyprus - 2 BR-A - S.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "512",
+      "like": {
+        "isLike": true,
+        "count": 28
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 46,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 2 BR-A - X",
+      "imageUrl": "../../images/Newton/Cyprus/2 BR-A/Newton - Cyprus - 2 BR-A - X.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "352",
+      "like": {
+        "isLike": true,
+        "count": 55
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 47,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 2 BR-B - A",
+      "imageUrl": "../../images/Newton/Cyprus/2 BR-B/Newton - Cyprus - 2 BR-B - A.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "324",
+      "like": {
+        "isLike": true,
+        "count": 14
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 48,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 2 BR-B - S",
+      "imageUrl": "../../images/Newton/Cyprus/2 BR-B/Newton - Cyprus - 2 BR-B - S.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "465",
+      "like": {
+        "isLike": true,
+        "count": 78
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 49,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 2 BR-B - X",
+      "imageUrl": "../../images/Newton/Cyprus/2 BR-B/Newton - Cyprus - 2 BR-B - X.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "524",
+      "like": {
+        "isLike": true,
+        "count": 65
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 50,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - 3 BR - X",
+      "imageUrl": "../../images/Newton/Cyprus/3 BR/Newton - Cyprus - 3 BR - X.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "834",
+      "like": {
+        "isLike": true,
+        "count": 164
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 51,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-A - A",
+      "imageUrl": "../../images/Newton/Cyprus/ST-A/Newton - Cyprus - ST-A - A.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "587",
+      "like": {
+        "isLike": true,
+        "count": 67
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 52,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-A - B",
+      "imageUrl": "../../images/Newton/Cyprus/ST-A/Newton - Cyprus - ST-A - B.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "254",
+      "like": {
+        "isLike": true,
+        "count": 91
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 53,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-A - C",
+      "imageUrl": "../../images/Newton/Cyprus/ST-A/Newton - Cyprus - ST-A - C.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "532",
+      "like": {
+        "isLike": true,
+        "count": 23
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 54,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-A - S",
+      "imageUrl": "../../images/Newton/Cyprus/ST-A/Newton - Cyprus - ST-A - S.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "411",
+      "like": {
+        "isLike": true,
+        "count": 266
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 55,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-A - X",
+      "imageUrl": "../../images/Newton/Cyprus/ST-A/Newton - Cyprus - ST-A - X.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "541",
+      "like": {
+        "isLike": true,
+        "count": 35
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 56,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-B - A",
+      "imageUrl": "../../images/Newton/Cyprus/ST-B/Newton - Cyprus - ST-B - A.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "234",
+      "like": {
+        "isLike": true,
+        "count": 77
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 57,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-B - B",
+      "imageUrl": "../../images/Newton/Cyprus/ST-B/Newton - Cyprus - ST-B - B.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "473",
+      "like": {
+        "isLike": true,
+        "count": 82
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 58,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-B - C",
+      "imageUrl": "../../images/Newton/Cyprus/ST-B/Newton - Cyprus - ST-B - C.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "127",
+      "like": {
+        "isLike": true,
+        "count": 23
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 59,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-B - S",
+      "imageUrl": "../../images/Newton/Cyprus/ST-B/Newton - Cyprus - ST-B - S.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "763",
+      "like": {
+        "isLike": true,
+        "count": 24
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 60,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-B - X",
+      "imageUrl": "../../images/Newton/Cyprus/ST-B/Newton - Cyprus - ST-B - X.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "654",
+      "like": {
+        "isLike": true,
+        "count": 12
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 61,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-C - A",
+      "imageUrl": "../../images/Newton/Cyprus/ST-C/Newton - Cyprus - ST-C - A.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "421",
+      "like": {
+        "isLike": true,
+        "count": 35
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 62,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-C - B",
+      "imageUrl": "../../images/Newton/Cyprus/ST-C/Newton - Cyprus - ST-C - B.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "284",
+      "like": {
+        "isLike": true,
+        "count": 71
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 63,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-C - C",
+      "imageUrl": "../../images/Newton/Cyprus/ST-C/Newton - Cyprus - ST-C - C.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "621",
+      "like": {
+        "isLike": true,
+        "count": 48
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 64,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-C - S",
+      "imageUrl": "../../images/Newton/Cyprus/ST-C/Newton - Cyprus - ST-C - S.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "461",
+      "like": {
+        "isLike": true,
+        "count": 156
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 65,
+      "developerId": 1,
+      "locationGroup": {
+        "id": 3,
+        "name": "Cyprus"
+      },
+      "name": "Newton - Cyprus - ST-C - X",
+      "imageUrl": "../../images/Newton/Cyprus/ST-C/Newton - Cyprus - ST-C - X.webp",
+      "description": "Newton Apartment, Cyprus.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "351",
+      "like": {
+        "isLike": true,
+        "count": 114
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 66,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 1,
+        "name": "Type 30"
+      },
+      "name": "Alyf - Type 30 - A",
+      "imageUrl": "../../images/Alyf Homes/Type 30/Alyf - Type 30 - A.webp",
+      "description": "Alyf Homes, Type 30.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "452",
+      "like": {
+        "isLike": true,
+        "count": 23
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 67,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 1,
+        "name": "Type 30"
+      },
+      "name": "Alyf - Type 30 - B",
+      "imageUrl": "../../images/Alyf Homes/Type 30/Alyf - Type 30 - B.webp",
+      "description": "Alyf Homes, Type 30.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "389",
+      "like": {
+        "isLike": true,
+        "count": 21
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 68,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 1,
+        "name": "Type 30"
+      },
+      "name": "Alyf - Type 30 - C",
+      "imageUrl": "../../images/Alyf Homes/Type 30/Alyf - Type 30 - C.webp",
+      "description": "Alyf Homes, Type 30.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "510",
+      "like": {
+        "isLike": true,
+        "count": 24
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 69,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 1,
+        "name": "Type 30"
+      },
+      "name": "Alyf - Type 30 - S",
+      "imageUrl": "../../images/Alyf Homes/Type 30/Alyf - Type 30 - S.webp",
+      "description": "Alyf Homes, Type 30.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "239",
+      "like": {
+        "isLike": true,
+        "count": 18
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 70,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 1,
+        "name": "Type 30"
+      },
+      "name": "Alyf - Type 30 - X",
+      "imageUrl": "../../images/Alyf Homes/Type 30/Alyf - Type 30 - X.webp",
+      "description": "Alyf Homes, Type 30.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "341",
+      "like": {
+        "isLike": true,
+        "count": 21
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 71,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 2,
+        "name": "Type 34"
+      },
+      "name": "Alyf - Type 34 - A",
+      "imageUrl": "../../images/Alyf Homes/Type 34/Alyf - Type 34 - A.webp",
+      "description": "Alyf Homes, Type 30.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "436",
+      "like": {
+        "isLike": true,
+        "count": 27
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 72,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 2,
+        "name": "Type 34"
+      },
+      "name": "Alyf - Type 34 - B",
+      "imageUrl": "../../images/Alyf Homes/Type 34/Alyf - Type 34 - B.webp",
+      "description": "Alyf Homes, Type 34.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "493",
+      "like": {
+        "isLike": true,
+        "count": 19
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 73,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 2,
+        "name": "Type 34"
+      },
+      "name": "Alyf - Type 34 - C",
+      "imageUrl": "../../images/Alyf Homes/Type 34/Alyf - Type 34 - C.webp",
+      "description": "Alyf Homes, Type 34.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "612",
+      "like": {
+        "isLike": true,
+        "count": 16
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 74,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 2,
+        "name": "Type 34"
+      },
+      "name": "Alyf - Type 34 - S",
+      "imageUrl": "../../images/Alyf Homes/Type 34/Alyf - Type 34 - S.webp",
+      "description": "Alyf Homes, Type 34.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "572",
+      "like": {
+        "isLike": true,
+        "count": 21
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 75,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 2,
+        "name": "Type 34"
+      },
+      "name": "Alyf - Type 34 - X",
+      "imageUrl": "../../images/Alyf Homes/Type 34/Alyf - Type 34 - X.webp",
+      "description": "Alyf Homes, Type 34.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "673",
+      "like": {
+        "isLike": true,
+        "count": 24
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 76,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 3,
+        "name": "Type 38"
+      },
+      "name": "Alyf - Type 38 - A",
+      "imageUrl": "../../images/Alyf Homes/Type 38/Alyf - Type 38 - A.webp",
+      "description": "Alyf Homes, Type 38.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "546",
+      "like": {
+        "isLike": true,
+        "count": 20
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 77,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 3,
+        "name": "Type 38"
+      },
+      "name": "Alyf - Type 38 - B",
+      "imageUrl": "../../images/Alyf Homes/Type 38/Alyf - Type 38 - B.webp",
+      "description": "Alyf Homes, Type 38.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "783",
+      "like": {
+        "isLike": true,
+        "count": 17
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 78,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 3,
+        "name": "Type 38"
+      },
+      "name": "Alyf - Type 38 - C",
+      "imageUrl": "../../images/Alyf Homes/Type 38/Alyf - Type 38 - C.webp",
+      "description": "Alyf Homes, Type 38.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "632",
+      "like": {
+        "isLike": true,
+        "count": 20
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 79,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 3,
+        "name": "Type 38"
+      },
+      "name": "Alyf - Type 38 - S",
+      "imageUrl": "../../images/Alyf Homes/Type 38/Alyf - Type 38 - S.webp",
+      "description": "Alyf Homes, Type 38.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "453",
+      "like": {
+        "isLike": true,
+        "count": 22
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 80,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 3,
+        "name": "Type 38"
+      },
+      "name": "Alyf - Type 38 - x",
+      "imageUrl": "../../images/Alyf Homes/Type 38/Alyf - Type 38 - X.webp",
+      "description": "Alyf Homes, Type 38.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "546",
+      "like": {
+        "isLike": true,
+        "count": 20
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 81,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 4,
+        "name": "Type 45"
+      },
+      "name": "Alyf - Type 45 - A",
+      "imageUrl": "../../images/Alyf Homes/Type 45/Alyf - Type 45 - A.webp",
+      "description": "Alyf Homes, Type 45.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "558",
+      "like": {
+        "isLike": true,
+        "count": 19
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 82,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 4,
+        "name": "Type 45"
+      },
+      "name": "Alyf - Type 45 - B",
+      "imageUrl": "../../images/Alyf Homes/Type 45/Alyf - Type 45 - B.webp",
+      "description": "Alyf Homes, Type 45.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "501",
+      "like": {
+        "isLike": true,
+        "count": 24
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 83,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 4,
+        "name": "Type 45"
+      },
+      "name": "Alyf - Type 45 - C",
+      "imageUrl": "../../images/Alyf Homes/Type 45/Alyf - Type 45 - C.webp",
+      "description": "Alyf Homes, Type 45.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "603",
+      "like": {
+        "isLike": true,
+        "count": 20
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 84,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 4,
+        "name": "Type 45"
+      },
+      "name": "Alyf - Type 45 - S",
+      "imageUrl": "../../images/Alyf Homes/Type 45/Alyf - Type 45 - S.webp",
+      "description": "Alyf Homes, Type 45.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "702",
+      "like": {
+        "isLike": true,
+        "count": 17
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 85,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 4,
+        "name": "Type 45"
+      },
+      "name": "Alyf - Type 45 - X",
+      "imageUrl": "../../images/Alyf Homes/Type 45/Alyf - Type 45 - X.webp",
+      "description": "Alyf Homes, Type 45.",
+      "contractAddress": "0x50f54747424e0ee42d9ae711ccfb275809fd6a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "price": "759",
+      "like": {
+        "isLike": true,
+        "count": 26
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    },
+    {
+      "id": 86,
+      "developerId": 2,
+      "locationGroup": {
+        "id": 5,
+        "name": "Type 72"
+      },
+      "name": "Alyf - Type 72 - X",
+      "imageUrl": "../../images/Alyf Homes/Type 72/Alyf - Type 72 - X.webp",
+      "description": "Alyf Homes, Type 72.",
+      "price": "928",
+      "contractAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+      "tokenId": "100300372864",
+      "nftAddress": "",
+      "nft": {},
+      "like": {
+        "isLike": true,
+        "count": 14
+      },
+      "startTime": "2022-07-28 00:00:00",
+      "endTime": "2022-08-28 00:00:00",
+      "createdAt": "2022-07-28 00:00:00",
+      "Address": "Bandung, West Java Indonesia",
+      "Bedroom": "2",
+      "Bathroom": "1"
+    }
+  ]
+}
