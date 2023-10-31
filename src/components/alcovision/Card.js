@@ -128,8 +128,8 @@ function Card({ id }) {
   // const [containerSize, setContainerSize] = useState({ height: 0, width: 0 });
 
   const handleFullScreen = id => {
-    const container = document.getElementById('fullscreen');
-    // console.log(container);
+    const container = document.getElementById(`fullscreen${id}`);
+    console.log(container);
     if (container.requestFullscreen) {
       container.requestFullscreen();
       // setContainerSize(val => {
@@ -149,11 +149,11 @@ function Card({ id }) {
     // );
     // console.log('Exit fullscree => ', container.exitFullscreen());
     // setIsClick(false);
-    checkIsFull();
+    checkIsFull(id);
   };
 
-  const checkIsFull = () => {
-    const container = document.getElementById('fullscreen');
+  const checkIsFull = (id) => {
+    const container = document.getElementById(`fullscreen${id}`);
 
     let test =
       container?.offsetWidth == window.innerWidth &&
@@ -189,7 +189,7 @@ function Card({ id }) {
       <div className="card-body">
         <div
           class="row"
-          id={'fullscreen'}
+          id={'fullscreen' + id}
           style={isFullScreen ? cardFull : null}
         >
           {[...Array(cameraCount)].map((el, i) => (
@@ -209,7 +209,7 @@ function Card({ id }) {
             class="btn btn-info btn-sm me-1"
             style={cardButton(isFullScreen)}
             onClick={() => {
-              handleFullScreen();
+              handleFullScreen(id);
             }}
           >
             <FontAwesomeIcon icon={'external-link-alt'} className=" me-2" />{' '}
