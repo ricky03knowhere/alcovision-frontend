@@ -38,7 +38,7 @@ import AppContext from 'context/Context';
 import LivePage from 'components/alcovision/LivePage';
 import DetailBus from 'components/alcovision/DetailBus';
 import AlertDetail from 'components/alcovision/AlertDetail';
-import FullScreen from 'components/alcovision/FullScreen';
+// import FullScreen from 'components/alcovision/FullScreen';
 
 const Layout = () => {
   const HTMLClassList = document.getElementsByTagName('html')[0].classList;
@@ -129,7 +129,6 @@ const Layout = () => {
         /> */}
 
         {/* //--- MainLayout Starts  */}
-
         <Route element={<MainLayout />}>
           {/*- ------------- Alcovision ---------------------------  */}
           <Route path="/" element={<Dashboard />} />

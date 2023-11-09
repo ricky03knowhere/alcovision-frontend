@@ -6,6 +6,7 @@ import AppContext from 'context/Context';
 import Footer from 'components/footer/Footer';
 // import ProductProvider from 'components/app/e-commerce/ProductProvider';
 import classNames from 'classnames';
+import ContextProvider from 'context/AlcovisionContext';
 
 const MainLayout = () => {
   const { hash, pathname } = useLocation();
@@ -33,19 +34,21 @@ const MainLayout = () => {
   }, [pathname]);
 
   return (
-    <div className={isFluid ? 'container-fluid' : 'container'}>
-      {(navbarPosition === 'vertical' || navbarPosition === 'combo') && (
-        <NavbarVertical />
-      )}
-      {/* <ProductProvider> */}
+    <ContextProvider>
+      <div className={isFluid ? 'container-fluid' : 'container'}>
+        {(navbarPosition === 'vertical' || navbarPosition === 'combo') && (
+          <NavbarVertical />
+        )}
+        {/* <ProductProvider> */}
         <div className={classNames('content', { 'pb-0': isKanban })}>
           <NavbarTop />
           {/*------ Main Routes ------*/}
           <Outlet />
           {!isKanban && <Footer />}
         </div>
-      {/* </ProductProvider> */}
-    </div>
+        {/* </ProductProvider> */}
+      </div>
+    </ContextProvider>
   );
 };
 

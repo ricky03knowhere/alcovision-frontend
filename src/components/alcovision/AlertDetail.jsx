@@ -1,9 +1,5 @@
-import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { CameraCard } from './Card';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-
-const cameraCount = 4;
 
 const AlertDetail = () => {
   const { busId, cameraId } = useParams();
@@ -34,17 +30,6 @@ const AlertDetail = () => {
                   <b>Camera #0{cameraId} :</b> Driver is detected to be sleepy,
                   please replace him or rest for a while.
                 </p>
-                {/* <div className="justify-content-end d-flex">
-                  <a
-                    href="#!"
-                    className="btn btn-success btn-sm"
-                    style={cardButton}
-                    onClick={() => window.history.back()}
-                  >
-                    <FontAwesomeIcon icon={'arrow-left'} className="me-2" />
-                    Back
-                  </a>
-                </div> */}
               </div>
             </div>
             <div className="justify-content-end d-flex mt-5 me-5">

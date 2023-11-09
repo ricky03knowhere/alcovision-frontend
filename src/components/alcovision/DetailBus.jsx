@@ -1,20 +1,12 @@
-import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { CameraCard } from './Card';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-
-const cameraCount = 4;
+import CameraContainer from './CameraContainer';
+import { contextConsumer } from 'context/AlcovisionContext';
 
 const DetailBus = () => {
-  // const [isDetail, setIsDetail] = useState(false);
-  // const [cameraId, setCameraId] = useState('');
   const { id } = useParams('id');
-  const [isFullScreen, setIsFullScreen] = useState(false);
 
-  // const handleClick = id => {
-  //   setIsDetail(true);
-  //   setCameraId(id);
-  // };
+  const { handleFullScreen } = contextConsumer();
 
   let busData = {
     vehicleId: 'D 24332 ER',
@@ -32,22 +24,11 @@ const DetailBus = () => {
               <h6>Driver Name &emsp;: {busData['driverName']}</h6>
               <h6>Telephone &emsp;&emsp;: {busData['telephone']}</h6>
             </div>
-            <div
-              class="row"
+            <CameraContainer
+              id={id}
+              isScale={true}
               style={{ transform: 'scale(.6)', maxHeight: '10em' }}
-              id={'fullscreen' + id}
-            >
-              {[...Array(cameraCount)].map((el, i) => (
-                <div class="col-md-6">
-                  <CameraCard
-                    id={i + 1}
-                    isScale={true}
-                    // handleClick={handleClick}
-                    busId={id}
-                  />
-                </div>
-              ))}
-            </div>
+            />
             <div
               className="pb-3 me-2"
               style={{ position: 'absolute', bottom: '0', right: '1em' }}
@@ -55,7 +36,7 @@ const DetailBus = () => {
               <a
                 href="#!"
                 class="btn btn-info btn-sm me-2"
-                // onClick={() => handleFullScreen(setIsFullScreen, id)}
+                onClick={() => handleFullScreen()}
               >
                 <FontAwesomeIcon icon={'external-link-alt'} className="me-2" />{' '}
                 Full Screen

@@ -5,9 +5,9 @@ export const totalOrder = [20, 40, 100, 120];
 
 export const marketShare = [
   { id: 1, value: 53000000, name: 'Real Estate', color: 'primary' },
-  { id: 2, value: 19000000, name: 'Siap', color: 'info' },
+  { id: 2, value: 19000000, name: 'Transportation', color: 'info' },
   { id: 3, value: 20000000, name: 'Commodity', color: 'secondary' },
-  { id: 4, value: 20000000, name: 'Gold', color: 'success' },
+  { id: 4, value: 20000000, name: 'Electricity', color: 'success' },
   { id: 5, value: 20000000, name: 'Future & Index', color: 'danger' },
   { id: 6, value: 20000000, name: 'Financial Service', color: 'warning' }
 ];
