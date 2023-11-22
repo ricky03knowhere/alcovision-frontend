@@ -8,6 +8,12 @@ export const sidebarMenu = {
       active: true
     },
     {
+      name: 'Bus List',
+      icon: 'car-side',
+      to: '/bus-list',
+      active: false
+    },
+    {
       name: 'Live Camera',
       icon: 'camera',
       to: '/live-camera',

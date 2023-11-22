@@ -38,6 +38,10 @@ import AppContext from 'context/Context';
 import LivePage from 'components/alcovision/LivePage';
 import DetailBus from 'components/alcovision/DetailBus';
 import AlertDetail from 'components/alcovision/AlertDetail';
+import BusList from 'components/alcovision/BusList';
+import BusDetail from 'components/alcovision/BusDetail';
+// import CameraModal from 'components/alcovision/CameraStream';
+import CameraStream from 'components/alcovision/CameraStream';
 // import FullScreen from 'components/alcovision/FullScreen';
 
 const Layout = () => {
@@ -132,6 +136,9 @@ const Layout = () => {
         <Route element={<MainLayout />}>
           {/*- ------------- Alcovision ---------------------------  */}
           <Route path="/" element={<Dashboard />} />
+          <Route path="bus-list" element={<BusList />} />
+          <Route path="bus-detail-info/:id" element={<BusDetail />} />
+          <Route path="camera-stream/" element={<CameraStream />} />
           <Route path="live-camera" element={<LivePage />} />
           <Route path="bus-detail/:id" element={<DetailBus />} />
           <Route

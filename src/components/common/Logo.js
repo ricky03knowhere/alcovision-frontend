@@ -50,6 +50,7 @@ const Logo = ({ at, width, className, textClass, ...rest }) => {
           className={classNames('font-sans-serif', textClass)}
         >
           AlcoVision
+          {/* Smart CCTV */}
         </span>
       </div>
     </Link>
