@@ -76,7 +76,7 @@ const WeeklySales = ({ data, width, amountClassName }) => {
     <Card className="h-md-100">
       <Card.Header className="pb-0">
         <h6 className="mb-0 mt-2">
-          Daily Profit
+          Penumpang Mingguan
           <OverlayTrigger
             placement="top"
             overlay={
@@ -97,14 +97,14 @@ const WeeklySales = ({ data, width, amountClassName }) => {
 
       <Card.Body as={Flex} alignItems="end" justifyContent="between">
         <div>
-          <h2
+          <h3
             className={classNames(
               amountClassName,
               'mb-1 text-700 fw-normal lh-1'
             )}
           >
-            $47K
-          </h2>
+            13500
+          </h3>
           <SoftBadge pill bg="success" className="me-2 fs--2">
             +3.5%
           </SoftBadge>

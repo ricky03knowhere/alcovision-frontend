@@ -23,7 +23,7 @@ const Dashboard = () => {
           <TotalOrder data={totalOrder} />
         </Col>
         <Col md={6} xxl={3}>
-          <MarketShare data={marketShare} radius={['100%', '87%']} />
+          {/* <MarketShare data={marketShare} radius={['100%', '87%']} /> */}
         </Col>
         <Col md={6} xxl={3}>
           {/* <Weather data={weather} /> */}

@@ -44,6 +44,13 @@ import BusDetail from 'components/alcovision/BusDetail';
 import CameraStream from 'components/alcovision/CameraStream';
 // import FullScreen from 'components/alcovision/FullScreen';
 
+import socketIO from 'socket.io-client';
+
+
+const socket = socketIO.connect('http://localhost:5000');
+ socket.on("connect", () => {
+      console.log("succesfully connected with scoket io server");
+  });
 const Layout = () => {
   const HTMLClassList = document.getElementsByTagName('html')[0].classList;
   useContext(AppContext);
@@ -137,10 +144,10 @@ const Layout = () => {
           {/*- ------------- Alcovision ---------------------------  */}
           <Route path="/" element={<Dashboard />} />
           <Route path="bus-list" element={<BusList />} />
-          <Route path="bus-detail-info/:id" element={<BusDetail />} />
+          <Route path="bus-detail-info/:id" element={<BusDetail socket={socket}/>} />
           <Route path="camera-stream/" element={<CameraStream />} />
           <Route path="live-camera" element={<LivePage />} />
-          <Route path="bus-detail/:id" element={<DetailBus />} />
+          <Route path="bus-detail/:id" element={<DetailBus/>} />
           <Route
             path="alert-detail/:busId/:cameraId"
             element={<AlertDetail />}
@@ -154,7 +161,7 @@ const Layout = () => {
       <ToastContainer
         closeButton={CloseButton}
         icon={false}
-        position={toast.POSITION.BOTTOM_LEFT}
+        position={toast.POSITION.TOP_LEFT}
       />
     </>
   );

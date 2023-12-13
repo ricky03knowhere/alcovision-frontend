@@ -73,7 +73,7 @@ const TotalOrder = ({ data }) => {
   return (
     <Card className="h-md-100">
       <Card.Header className="pb-0">
-        <h6 className="mb-0 mt-2">Total Transaction</h6>
+        <h6 className="mb-0 mt-2">Peringatan Terdeteksi</h6>
       </Card.Header>
 
       <Card.Body
@@ -83,10 +83,10 @@ const TotalOrder = ({ data }) => {
         className="pt-0"
       >
         <div>
-          <h2 className="fw-normal text-700 mb-1 lh-1">58.4K</h2>
+          <h3 className="fw-normal text-700 mb-1 lh-1">25 Laporan</h3>
           <Badge pill bg="200" className="text-primary fs--2">
             <FontAwesomeIcon icon="caret-up" className="me-1" />
-            13.6%
+            Laporan Peringatan Hari ini
           </Badge>
         </div>
         <div className="ps-0">
